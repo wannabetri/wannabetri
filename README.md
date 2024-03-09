@@ -24,3 +24,5 @@
 [![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabetri)](https://github.com/wannabetri/github-readme-stats)
 
 ## Contact:
+
+[![Linkedin Gadge](https://img.shields.io/badge/-Gabriel_de_Dompablo-blue?style=flat-square&logo=Linkedin$logoColor=white$link=https://https://www.linkedin.com/in/gabriel-de-dompablo-sanchez-a8a1038b/)](https://www.linkedin.com/in/gabriel-de-dompablo-sanchez-a8a1038b/)
