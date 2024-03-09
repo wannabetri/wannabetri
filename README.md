@@ -22,4 +22,4 @@
 
 ## GitHub Readme Stats
 
-[![Gabriel GitHub stats](https://github-readme-stats.vercel.app/apiwannabetri=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabetri)](https://github.com/wannabetri/github-readme-stats)
