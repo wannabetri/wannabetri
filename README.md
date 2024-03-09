@@ -10,3 +10,4 @@
 - 📫 How to reach me: You can write to me at my email address dedompablosanchez@gmail.com 
 - ⚡ Fun fact: I am triathlete and sport coach."
 
+![](https://blogthinkbig.com/wp-content/uploads/sites/4/2022/11/MicrosoftTeams-image-9.jpg)
