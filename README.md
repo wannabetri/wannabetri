@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on new projects and IA learning
 - 🤔 I’m looking for help with IA learning
 - 💬 Ask me about Sport, cars an computers
-- 📫 How to reach me: [!Linkedin Badge]https://www.linkedin.com/in/gabriel-de-dompablo-sanchez-a8a1038b/ and
 - ⚡ Fun fact: I am triathlete and sport coach."
 
 ![](https://blogthinkbig.com/wp-content/uploads/sites/4/2022/11/MicrosoftTeams-image-9.jpg)
@@ -23,3 +22,5 @@
 ## GitHub Readme Stats
 
 [![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=wannabetri)](https://github.com/wannabetri/github-readme-stats)
+
+## Contact:
