@@ -28,6 +28,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_de_Dompablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-dompablo-sanchez-a8a1038b/)](https://www.linkedin.com/in/gabriel-de-dompablo-sanchez-a8a1038b/)
 
 
-[![Gmail Badge](https://img.shields.io/badge/-dedompablosanchez@gmail.com-c14438?style=flat-square&logo=Gmail$logoColor=white$link=mailto:dedompablosanchez@gmail.com)](mailto:dedompablosanchez@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dedompablosanchez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dedompablosanchez@gmail.com)](mailto:dedompablosanchez@gmail.com)
 
-https://www.linkedin.com/in/anirudhemmadi/
+
