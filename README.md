@@ -14,8 +14,8 @@
 
 ## My repositories
 
-[Tokio School:] (https://github.com/wannabetri/Tokio_School_Ejercicios)
+[Tokio School](https://github.com/wannabetri/Tokio_School_Ejercicios)
 
-[Codedex.io_Python] (https://github.com/wannabetri/Codedex.io_Python)
+[Codedex.io_Python](https://github.com/wannabetri/Codedex.io_Python)
 
-[Django coursea curse] (https://github.com/wannabetri/django_projects)
+[Django coursea curse](https://github.com/wannabetri/django_projects)
